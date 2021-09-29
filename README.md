@@ -3,7 +3,7 @@
 - 🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 👨‍💻 Iniciando no mundo da programação com tecnologias para desenvolvimento web.
 - 📚 Estudando JavaScript.
-- 🔭 Próximos objetivos: Typescript e React.
+- 🔭 Próximo objetivos: React.
 
 <div>
   <a href="https://github.com/motagabriel">
