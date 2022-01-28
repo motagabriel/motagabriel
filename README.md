@@ -3,7 +3,7 @@
 - 🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 👨‍💻 Iniciando no mundo da programação com tecnologias para desenvolvimento web.
 - 📚 Estudando JavaScript.
-- 🔭 Próximo objetivos: React.
+
 
 <div>
   <a href="https://github.com/motagabriel">
@@ -15,7 +15,7 @@
   <img align="center" alt="mota-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mota-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mota-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-  <!--<img align="center" alt="mota-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
+  <img align="center" alt="mota-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
